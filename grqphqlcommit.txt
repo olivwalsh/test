@@ -1,0 +1,1 @@
+commit using graphql endpoint as installation
